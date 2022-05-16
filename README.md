@@ -6,7 +6,7 @@ Consiste en realizar pruebas de unidad a nuestra clase llamada spiderman la cual
 - Peliculas
 - Estudio
 
-Para familiatizarnos con la dependencia de jest
+Para familiatizarnos con la dependencia de jest y verificar que nuestro código funciona con los diferentes actores o spidermans.
 
 <p align="center"><img src="https://imgmedia.libero.pe/670x396/libero/original/2021/12/13/61b7e0a53a8cea21be4677c3.webp"></p>
 
