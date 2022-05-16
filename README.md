@@ -1,5 +1,5 @@
 # Spiderverse (práctica 2 Semana 3 LaunchX)
-Consiste en realizar pruebas a nuestra clase llamada spiderman la cual contiene:
+Consiste en realizar pruebas de unidad a nuestra clase llamada spiderman la cual contiene:
 - Nombre
 - Edad
 - Actor
