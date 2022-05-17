@@ -21,7 +21,7 @@ npm install
 | :------------: | :------------: | :------------: |
 | Jest | 27.5.1  | <a href="https://jestjs.io/docs/27.x/getting-started" target="_blank"><img src="https://img.shields.io/badge/Jest-Documentation-brightgreen?style=for-the-badge&logo=jest"></a> |
 
-Versión de Node: [16.14.2](https://nodejs.org/docs/latest-v16.x/api/index.html)
+Versión de Node: <a href="https://nodejs.org/docs/latest-v16.x/api/index.html" target="_blank">16.14.2</a>
 
 ## ¿Qué aprendí?
 Una técnica de trabajo que nos ayuda a diseñar nuestra app. Es importante recalcar que estos conceptos pueden ser trasladados a cualquier otro ámbito del software, o lenguaje de programación.
@@ -32,7 +32,7 @@ Una técnica de trabajo que nos ayuda a diseñar nuestra app. Es importante reca
 3. Refactorice tanto el código nuevo como el antiguo para que esté bien estructurado.
 
 ## Actividades realizadas:
-- Realizar un [TDD (Test Driven Development)](https://martinfowler.com/bliki/TestDrivenDevelopment.html).
+- Realizar un <a href="https://martinfowler.com/bliki/TestDrivenDevelopment.html" target="_blank">TDD (Test Driven Development)</a>.
 - Escribe una prueba de unidad.
 - Dentro de la prueba escribe el código tal cuál necesitas usar.
 - Corre la prueba y verifica que falle, pues no hay nada que probar.
