@@ -19,8 +19,9 @@ npm install
 ## Dependencias
 | Nombre  | Versión | Documentación | 
 | :------------: | :------------: | :------------: |
-| Node | 16.14.2 | <a href="https://nodejs.org/docs/latest-v16.x/api/index.html" target="_blank"><img src="https://img.shields.io/badge/🔗 Node-Documentation-green?style=for-the-badge"></a> |
 | Jest | 27.5.1  | <a href="https://jestjs.io/docs/27.x/getting-started" target="_blank"><img src="https://img.shields.io/badge/Jest-Documentation-brightgreen?style=for-the-badge&logo=jest"></a> |
+
+Versión de Node: [16.14.2](https://nodejs.org/docs/latest-v16.x/api/index.html)
 
 ## ¿Qué aprendí?
 Una técnica de trabajo que nos ayuda a diseñar nuestra app. Es importante recalcar que estos conceptos pueden ser trasladados a cualquier otro ámbito del software, o lenguaje de programación.
